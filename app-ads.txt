@@ -375,3 +375,5 @@ Xapads.com, 163819, RESELLER
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 
+google.com, pub-5822797039856192, DIRECT, f08c47fec0942fa0
+
