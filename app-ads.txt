@@ -1,3 +1,5 @@
+google.com, pub-3153231967554708, DIRECT, f08c47fec0942fa0
+
 facebook.com, 1307813543144054, DIRECT, c3e20eee3f780d68
 facebook.com, 1307813543144054, RESELLER, c3e20eee3f780d68
 
@@ -376,9 +378,7 @@ Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
-
 google.com, pub-5822797039856192, DIRECT, f08c47fec0942fa0
-
 startapp.com, 180840977, DIRECT
 start.io, 180840977, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
@@ -506,7 +506,6 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
-
 applovin.com, d7374ff816df0d42d17a40cfaffdac5d, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -545,5 +544,3 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
-
-google.com, pub-3153231967554708, DIRECT, f08c47fec0942fa0
