@@ -281,9 +281,10 @@
         }
         
         .screenshot-placeholder {
-            height: auto;
+            width: 100%;
             background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
             display: flex;
+            aspect-ratio: 16 / 9;
             align-items: center;
             justify-content: center;
             color: #666;
@@ -485,6 +486,11 @@
             .hero {
                 margin-top: 120px;
                 padding: 40px 0;
+            }
+        }
+        @media (max-width: 600px) {
+            .screenshot-placeholder {
+                max-width: 100%;
             }
         }
     </style>
