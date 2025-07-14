@@ -1,0 +1,22 @@
+[
+  {
+    "name": "VIDLINK",
+    "url": "https://vidlink.pro/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "SUPEREMBED",
+    "url": "http://multiembed.mov/?video_id=movie_id&&tmdb=1",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIP SUPEREMBED",
+    "url": "https://multiembed.mov/directstream.php?video_id=movie_id&tmdb=1",
+    "supportType": "movie"
+  },
+  {
+    "name": "SMASHYSTREAM",
+    "url": "https://player.smashystream.com/movie/movie_id",
+    "supportType": "tv,movie"
+  }
+]
