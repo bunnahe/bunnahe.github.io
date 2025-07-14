@@ -21,7 +21,7 @@
     <meta name="twitter:description" content="Your movie hub for streaming trailers, discovering top-rated films, and exploring trending titles.">
     
     <!-- Favicon -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📽️</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>ðŸ“½ï¸</text></svg>">
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -97,6 +97,10 @@
         .download-btn:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(255, 71, 87, 0.4);
+        }
+
+        header.hidden {
+            transform: translateY(-100%);
         }
         
         /* Hero Section */
@@ -521,8 +525,8 @@
         <section class="hero">
             <div class="container">
                 <div class="hero-content">
-                    <h1>📽️ HD Movies 2025</h1>
-                    <p>Your ultimate movie hub for streaming trailers, discovering top-rated films, and exploring trending titles — anytime, anywhere.</p>
+                    <h1>ðŸ“½ï¸ HD Movies 2025</h1>
+                    <p>Your ultimate movie hub for streaming trailers, discovering top-rated films, and exploring trending titles â€” anytime, anywhere.</p>
                     <div class="hero-buttons">
                         <a href="https://play.google.com/store/apps/details?id=com.hdmoviesmovietube2024.playstore.android" class="btn-primary" target="_blank">
                             <i class="material-icons">play_arrow</i>
@@ -537,47 +541,71 @@
             </div>
         </section>
 
+        <section id="install-plugin" class="features" style="background: rgba(13, 20, 33, 0.7);">
+            <div class="container">
+                <h2 class="section-title">ðŸ”Œ Install Third-Party Plugins</h2>
+                <p style="text-align: center; color: #b0b0b0; max-width: 700px; margin: -20px auto 40px;">
+                    Enhance your experience by installing third-party plugins to watch a wider variety of content. Follow the guide below to get started.
+                </p>
+                <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; border-radius: 16px; margin-bottom: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+                    <iframe 
+                        src="https://www.youtube.com/embed/u4AC9CpI8qM" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                    ></iframe>
+                </div>
+                <div style="text-align: center;">
+                    <a href="https://www.youtube.com/watch?v=u4AC9CpI8qM" class="btn-primary" target="_blank">
+                        <i class="material-icons">extension</i>
+                        Download Plugin
+                    </a>
+                </div>
+            </div>
+        </section>
+
         <section id="features" class="features">
             <div class="container">
-                <h2 class="section-title">🌟 Key Features</h2>
+                <h2 class="section-title">ðŸŒŸ Key Features</h2>
                 <div class="features-grid">
                     <div class="feature-card">
-                        <div class="feature-icon">🔍</div>
+                        <div class="feature-icon">ðŸ”</div>
                         <h3>HD Streaming</h3>
                         <p>Stream high-quality trailers from public-domain sources with crystal clear video quality.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">🎥</div>
+                        <div class="feature-icon">ðŸŽ¥</div>
                         <h3>Browse & Discover</h3>
                         <p>Explore top genres, watch trailers, and add your favorites to personalized collections.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">📱</div>
+                        <div class="feature-icon">ðŸ“±</div>
                         <h3>Material Design UI</h3>
                         <p>Sleek, modern interface with intuitive navigation and watch history tracking.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">🔔</div>
+                        <div class="feature-icon">ðŸ””</div>
                         <h3>Daily Updates</h3>
                         <p>Stay current with the latest movie releases and trending titles updated daily.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">🔐</div>
+                        <div class="feature-icon">ðŸ”</div>
                         <h3>TMDB Integration</h3>
                         <p>Sign in with TMDB to sync preferences and access personalized content.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">🎯</div>
+                        <div class="feature-icon">ðŸŽ¯</div>
                         <h3>Smart Recommendations</h3>
                         <p>Get movie suggestions based on your TMDB watch history and preferences.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">📋</div>
+                        <div class="feature-icon">ðŸ“‹</div>
                         <h3>Personal Watchlists</h3>
                         <p>Create and manage custom watchlists for movies you want to watch later.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon">⭐</div>
+                        <div class="feature-icon">â­</div>
                         <h3>Rate & Review</h3>
                         <p>Share your opinions and read community reviews to discover great films.</p>
                     </div>
@@ -587,7 +615,7 @@
 
         <section class="screenshots">
             <div class="container">
-                <h2 class="section-title">📱 App Screenshots</h2>
+                <h2 class="section-title">ðŸ“± App Screenshots</h2>
                 <div class="screenshots-grid">
                     <div class="screenshot-card">
                         <div class="screenshot-placeholder">
@@ -697,6 +725,24 @@
             el.style.transform = 'translateY(20px)';
             el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
             observer.observe(el);
+        });
+
+        // Hide header on scroll down (mobile)
+        let lastScrollTop = 0;
+        const header = document.querySelector('header');
+
+        window.addEventListener('scroll', function() {
+            if (window.innerWidth <= 768) { // Target mobile and tablet
+                let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                if (scrollTop > lastScrollTop && scrollTop > 100) {
+                    // Scroll Down
+                    header.classList.add('hidden');
+                } else {
+                    // Scroll Up
+                    header.classList.remove('hidden');
+                }
+                lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+            }
         });
     </script>
 </body>
