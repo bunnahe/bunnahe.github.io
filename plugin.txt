@@ -1,0 +1,82 @@
+[
+  {
+    "name": "VIDSRC",
+    "url": "https://vidsrc2.ru/embed/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIDLINK",
+    "url": "https://vidlink.pro/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "Try Our Puzzle Game!",
+    "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.free.games",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIDFAST",
+    "url": "https://vidfast.vc/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "SMASHYSTREAM",
+    "url": "https://player.smashystream.com/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "SUPEREMBED",
+    "url": "http://multiembed.mov/?video_id=movie_id&&tmdb=1",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIP SUPEREMBED",
+    "url": "https://multiembed.mov/directstream.php?video_id=movie_id&tmdb=1",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIDROCK",
+    "url": "https://vidrock.net/movie/movie_id",
+    "supportType": "movie"
+  },
+  {
+    "name": "VIDSRC",
+    "url": "https://vidsrc2.ru/embed/tv/movie_id/season_id/episode_id",
+    "supportType": "tv"
+  },
+  {
+    "name": "VIDLINK",
+    "url": "https://vidlink.pro/tv/movie_id/season_id/episode_id",
+    "supportType": "tv"
+  },
+  {
+    "name": "Try Our Puzzle Game!",
+    "url": "https://play.google.com/store/apps/details?id=water.sort.color.puzzle.offline.free.games",
+    "supportType": "tv"
+  },
+  {
+    "name": "VIDFAST",
+    "url": "https://vidfast.vc/tv/movie_id/season_id/episode_id",
+    "supportType": "tv"
+  },
+  {
+    "name": "SMASHYSTREAM",
+    "url": "https://player.smashystream.com/tv/movie_id?s=season_id&e=episode_id",
+    "supportType": "tv"
+  },
+  {
+    "name": "SUPEREMBED",
+    "url": "http://multiembed.mov/?video_id=movie_id&s=season_id&e=episode_id&tmdb=1",
+    "supportType": "tv"
+  },
+  {
+    "name": "VIP SUPEREMBED",
+    "url": "https://multiembed.mov/directstream.php?video_id=movie_id&s=season_id&e=episode_id&tmdb=1",
+    "supportType": "tv"
+  },
+  {
+    "name": "VIDROCK",
+    "url": "https://vidrock.net/tv/movie_id/season_id/episode_id",
+    "supportType": "tv"
+  }
+]
